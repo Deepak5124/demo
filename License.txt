@@ -1,2 +1,4 @@
 This is a sample license file
 adding new line in license
+
+another changes
